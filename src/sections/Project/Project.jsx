@@ -1,9 +1,9 @@
 import React from "react";
 import styles from "./ProjectStyle.module.css";
-import resQ from "../../assets/ResQ.png";
-import toDo from "../../assets/ToDo-List.png"
-import ceer from "../../assets/Ceer.png"
-import allergyDiary from "../../assets/AllergyDiary.png";
+import resQ from "../../assets/ResQ.svg";
+import toDo from "../../assets/To-Do List.svg";
+import ceer from "../../assets/Code Reengineering.svg";
+import allergyDiary from "../../assets/AllergyDiary.svg";
 import ProjectCard from "../../common/ProjectCard";
 
 function Project() {

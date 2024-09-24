@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styles from "./HeroStyle.module.css";
-import heroImg from "../../assets/Screenshot 2024-09-19 203435.png";
+import heroImg from "../../assets/Untitled_design-removebg-preview.png";
 import lightMode from "../../assets/lightMode.svg";
 import darkMode from "../../assets/darkMode.svg";
 import gitHubLight from "../../assets/gitHubLight.svg";
@@ -81,10 +81,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis aut
-          nam aliquid odit, ut assumenda nemo in eveniet excepturi rerum
-          voluptatum suscipit illo tempora exercitationem sint distinctio itaque
-          quasi animi!
+        With the passion for developing applications in various languages that can be used for commercial businesses.
         </p>
         <a
           href={CV}
